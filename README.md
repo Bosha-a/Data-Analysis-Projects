@@ -26,7 +26,7 @@ This repository makes use of the following Python libraries:
 
 ---
 
-## 📂 Folder Structure
+<!-- ## 📂 Folder Structure
 
 ```
 data-visualization-projects/
@@ -40,32 +40,27 @@ data-visualization-projects/
 ├── images/
 │   └── preview_charts.png
 └── README.md
-```
+``` -->
 
 
 ## 🛠 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-visualization-projects.git
-   cd data-visualization-projects
+   git clone hhttps://github.com/Bosha-a/Data-Analysis-Projects.git
+   cd Data-Analysis-Projects
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open any Jupyter notebook and run the analysis.
+2. Open any Jupyter notebook and run the analysis or google colab.
 
 ---
 
 ## 💡 Inspiration
 
 This repo was created to:
-- Practice and showcase data visualization skills.
+- Practice and showcase data analysis & data visualization skills.
 - Build storytelling techniques using charts.
-- Create a personal library of visual ideas for future use.
+- Create a personal library of visual  future use.
 
 ---
 
@@ -73,9 +68,8 @@ This repo was created to:
 
 Feel free to reach out if you have any questions or suggestions!
 
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
+- 📧 beshary010@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdallahbeshary/)
 
 ---
 
@@ -83,3 +77,4 @@ Feel free to reach out if you have any questions or suggestions!
 
 Don't forget to **star ⭐ the repo** and share it with fellow data enthusiasts!
 
+ideas for
