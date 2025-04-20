@@ -1,4 +1,4 @@
-# 📊 Data Analysis Projects DECI
+# 📊 Data Analysis Projects 
 
 Welcome to my repository for exploring and visualizing data using **Matplotlib**, **Seaborn**, and **Plotly**!  
 This repo showcases a collection of data analysis projects where I dive into datasets and uncover insights through powerful visual storytelling.
