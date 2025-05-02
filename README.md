@@ -76,5 +76,3 @@ Feel free to reach out if you have any questions or suggestions!
 ## ⭐️ If you like this project
 
 Don't forget to **star ⭐ the repo** and share it with fellow data enthusiasts!
-
-ideas for
